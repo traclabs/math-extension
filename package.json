@@ -1,0 +1,19 @@
+{
+  "name": "math-extension",
+  "version": "1.0.0",
+  "description": "An extension to math.js which defines math operations on additional types.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traclabs/math-extension.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/traclabs/math-extension/issues"
+  },
+  "homepage": "https://github.com/traclabs/math-extension#readme"
+}
